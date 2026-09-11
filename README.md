@@ -1,54 +1,72 @@
-# DuoPlus for Android
+**English** | [Русский](./README.ru.md) | [Português](./README.pt.md) | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-TW.md) | [Tiếng Việt](./README.vi.md) | [ไทย](./README.th.md)
 
-Welcome to the official download repository for the **DuoPlus Android app**.
+# DuoPlus Android — Official App & APK Download
 
-This repository provides APK downloads and release notes. It does not contain the application source code.
+Download the **DuoPlus Android app** from Google Play or get the latest APK from GitHub Releases.
 
-## Download
+[Google Play](https://play.google.com/store/apps/details?id=com.duoplus.app) · [Download APK](https://github.com/DuoPlusCloud/android/releases/latest) · [Official Website](https://www.duoplus.net/) · [Help Center](https://help.duoplus.net/)
 
-### [Download the Latest Release →](https://github.com/DuoPlusCloud/android/releases/latest)
+## About DuoPlus
 
-Open the latest release and download the `.apk` file under **Assets**.
+[DuoPlus Cloud Phone](https://www.duoplus.net/) is a cloud-based Android platform for multi-account management, social media marketing, and mobile business operations.
 
-[View All Releases](https://github.com/DuoPlusCloud/android/releases)
+Powered by real ARM hardware, DuoPlus provides independent Android cloud phone environments without requiring users to maintain multiple physical phones. It helps individuals and teams manage mobile apps, organize multiple accounts, and collaborate on cloud devices.
 
-## Installation
+### Platform Highlights
 
-1. Download the APK to your Android device.
-2. Open the downloaded file.
-3. If prompted, allow your browser or file manager to install apps from this source.
-4. Follow the on-screen instructions to complete the installation.
-5. Open **DuoPlus** to get started.
+- **Android cloud phones:** Run mobile apps on cloud devices powered by real ARM hardware.
+- **Independent environments:** Organize accounts and mobile workflows across separate cloud phones.
+- **Multi-account management:** Support social media and business operations across multiple accounts.
+- **Bulk app management:** Install, launch, and uninstall applications across cloud devices.
+- **Team collaboration:** Share cloud devices with team members.
+- **Workflow automation:** Explore operation synchronization, RPA, and API capabilities.
 
-You can turn off the installation permission after the app is installed.
+Visit the [DuoPlus official website](https://www.duoplus.net/) for features, use cases, and plans. These highlights describe the DuoPlus platform; feature availability in the Android client may vary by version.
 
-## Updates
+## Download DuoPlus for Android
 
-Download and install the latest APK to update DuoPlus.
+### Google Play
 
-Use the same installation source when updating, and check the release notes for any version-specific instructions.
+[Download DuoPlus on Google Play →](https://play.google.com/store/apps/details?id=com.duoplus.app)
+
+Follow the installation steps shown in the store.
+
+### Direct APK Download
+
+[Download the Latest APK →](https://github.com/DuoPlusCloud/android/releases/latest)
+
+Open the latest release, find **Assets**, and download the `.apk` file to your Android device. Check the release notes for compatibility requirements and installation instructions.
+
+## How to Install the APK
+
+1. Open the downloaded APK on your Android device.
+2. If prompted, allow your browser or file manager to install apps from this source.
+3. Follow the on-screen instructions to complete installation.
+4. Launch **DuoPlus**.
+
+You can disable the installation permission after setup is complete.
+
+## How to Update
+
+- **Google Play:** Open the [store listing](https://play.google.com/store/apps/details?id=com.duoplus.app) and tap **Update** when available.
+- **GitHub APK:** Download and install the [latest APK](https://github.com/DuoPlusCloud/android/releases/latest), following any additional release instructions.
+
+Use the same installation source when updating.
 
 ## Release Notes
 
-Each release includes details about new features, improvements, and bug fixes.
+Each GitHub release includes new features, improvements, and bug fixes.
 
-See the [latest release notes](https://github.com/DuoPlusCloud/android/releases/latest) for what has changed.
+[Latest Release](https://github.com/DuoPlusCloud/android/releases/latest) · [All Releases](https://github.com/DuoPlusCloud/android/releases)
 
-## Support
+## Help and Support
 
-If you need help, contact DuoPlus support through your usual support channel.
+- [Official Website](https://www.duoplus.net/)
+- [Help Center](https://help.duoplus.net/)
+- [Email Support](mailto:support@duoplus.net)
 
-When reporting an issue, please include:
-
-- DuoPlus app version
-- Device model and Android version
-- A description of the issue and steps to reproduce it
-- Screenshots, if helpful
-
-Please do not include passwords, verification codes, or other sensitive information.
+When reporting an issue, include your app version, device model, Android version, steps to reproduce, and screenshots if helpful. Remove passwords, verification codes, and other sensitive information before sharing.
 
 ## About This Repository
 
-This repository is used exclusively to distribute DuoPlus Android releases.
-
-The availability of these downloads does not grant an open-source license to the application.
+This repository distributes official **DuoPlus Android APK releases** and release notes. Application source code is not included. The availability of these downloads does not grant an open-source license to the application.
