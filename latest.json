@@ -1,7 +1,7 @@
 {
   "ios": {
-    "latest_version": "1.0.35",
-    "min_supported_version": "1.0.30",
+    "latest_version": "1.0.34",
+    "min_supported_version": "1.0.34",
     "url": "https://apps.apple.com/app/id6761875502",
     "notes": {
       "en": "UI redesign, smoother streaming and bug fixes.",
@@ -13,8 +13,8 @@
     }
   },
   "android_play": {
-    "latest_version": "1.0.35",
-    "min_supported_version": "1.0.30",
+    "latest_version": "1.0.34",
+    "min_supported_version": "1.0.34",
     "url": "https://play.google.com/store/apps/details?id=com.duoplus.app",
     "notes": {
       "en": "UI redesign, smoother streaming and bug fixes.",
@@ -26,8 +26,8 @@
     }
   },
   "android_apk": {
-    "latest_version": "1.0.35",
-    "min_supported_version": "1.0.30",
+    "latest_version": "1.0.34",
+    "min_supported_version": "1.0.34",
     "url": "https://github.com/DuoPlusCloud/android/releases/latest",
     "notes": {
       "en": "UI redesign, smoother streaming and bug fixes.",
