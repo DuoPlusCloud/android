@@ -1,41 +1,116 @@
 {
   "ios": {
     "latest_version": "1.0.34",
-    "min_supported_version": "1.0.34",
+    "prompt_below_version": "1.0.34",
+    "force_below_version": "1.0.30",
     "url": "https://apps.apple.com/app/id6761875502",
     "notes": {
-      "en": "UI redesign, smoother streaming and bug fixes.",
-      "zh-CN": "全新界面升级，优化推流体验并修复已知问题。",
-      "zh-TW": "全新介面升級，優化推流體驗並修復已知問題。",
-      "ru": "Обновлённый интерфейс и исправление ошибок.",
-      "pt": "Novo visual, streaming mais fluido e correções.",
-      "vi": "Giao diện mới, truyền phát mượt hơn và sửa lỗi."
+      "en": [
+        "1. UI redesign with native Liquid Glass support",
+        "2. Smoother cloud phone streaming",
+        "3. Bug fixes and stability improvements"
+      ],
+      "zh-CN": [
+        "1. 全新界面升级，适配 iOS 液态玻璃效果",
+        "2. 优化云手机推流与操控体验",
+        "3. 修复已知问题并提升稳定性"
+      ],
+      "zh-TW": [
+        "1. 全新介面升級，適配 iOS 液態玻璃效果",
+        "2. 優化雲手機推流與操控體驗",
+        "3. 修復已知問題並提升穩定性"
+      ],
+      "ru": [
+        "1. Обновлённый интерфейс с поддержкой Liquid Glass",
+        "2. Более плавный стриминг облачного телефона",
+        "3. Исправление ошибок и повышение стабильности"
+      ],
+      "pt": [
+        "1. Novo visual com suporte a Liquid Glass",
+        "2. Streaming de telefone na nuvem mais fluido",
+        "3. Correções de bugs e melhorias de estabilidade"
+      ],
+      "vi": [
+        "1. Giao diện mới hỗ trợ Liquid Glass",
+        "2. Truyền phát điện thoại đám mây mượt mà hơn",
+        "3. Sửa lỗi và cải thiện độ ổn định"
+      ]
     }
   },
   "android_play": {
     "latest_version": "1.0.34",
-    "min_supported_version": "1.0.34",
+    "prompt_below_version": "1.0.34",
+    "force_below_version": "1.0.30",
     "url": "https://play.google.com/store/apps/details?id=com.duoplus.app",
     "notes": {
-      "en": "UI redesign, smoother streaming and bug fixes.",
-      "zh-CN": "全新界面升级，优化推流体验并修复已知问题。",
-      "zh-TW": "全新介面升級，優化推流體驗並修復已知問題。",
-      "ru": "Обновлённый интерфейс и исправление ошибок.",
-      "pt": "Novo visual, streaming mais fluido e correções.",
-      "vi": "Giao diện mới, truyền phát mượt hơn và sửa lỗi."
+      "en": [
+        "1. UI redesign and visual polish",
+        "2. Smoother cloud phone streaming",
+        "3. Bug fixes and stability improvements"
+      ],
+      "zh-CN": [
+        "1. 全新界面升级与细节优化",
+        "2. 优化云手机推流与操控体验",
+        "3. 修复已知问题并提升稳定性"
+      ],
+      "zh-TW": [
+        "1. 全新介面升級與細節優化",
+        "2. 優化雲手機推流與操控體驗",
+        "3. 修復已知問題並提升穩定性"
+      ],
+      "ru": [
+        "1. Обновлённый интерфейс",
+        "2. Более плавный стриминг облачного телефона",
+        "3. Исправление ошибок и повышение стабильности"
+      ],
+      "pt": [
+        "1. Novo visual e refinamento de interface",
+        "2. Streaming de telefone na nuvem mais fluido",
+        "3. Correções de bugs e melhorias de estabilidade"
+      ],
+      "vi": [
+        "1. Giao diện mới tinh gọn hơn",
+        "2. Truyền phát điện thoại đám mây mượt mà hơn",
+        "3. Sửa lỗi và cải thiện độ ổn định"
+      ]
     }
   },
   "android_apk": {
     "latest_version": "1.0.34",
-    "min_supported_version": "1.0.34",
+    "prompt_below_version": "1.0.34",
+    "force_below_version": "1.0.30",
     "url": "https://github.com/DuoPlusCloud/android/releases/latest",
     "notes": {
-      "en": "UI redesign, smoother streaming and bug fixes.",
-      "zh-CN": "全新界面升级，优化推流体验并修复已知问题。",
-      "zh-TW": "全新介面升級，優化推流體驗並修復已知問題。",
-      "ru": "Обновлённый интерфейс и исправление ошибок.",
-      "pt": "Novo visual, streaming mais fluido e correções.",
-      "vi": "Giao diện mới, truyền phát mượt hơn và sửa lỗi."
+      "en": [
+        "1. UI redesign and visual polish",
+        "2. Smoother cloud phone streaming",
+        "3. Bug fixes and stability improvements"
+      ],
+      "zh-CN": [
+        "1. 全新界面升级与细节优化",
+        "2. 优化云手机推流与操控体验",
+        "3. 修复已知问题并提升稳定性"
+      ],
+      "zh-TW": [
+        "1. 全新介面升級與細節優化",
+        "2. 優化雲手機推流與操控體驗",
+        "3. 修復已知問題並提升穩定性"
+      ],
+      "ru": [
+        "1. Обновлённый интерфейс",
+        "2. Более плавный стриминг облачного телефона",
+        "3. Исправление ошибок и повышение стабильности"
+      ],
+      "pt": [
+        "1. Novo visual e refinamento de interface",
+        "2. Streaming de telefone na nuvem mais fluido",
+        "3. Correções de bugs e melhorias de estabilidade"
+      ],
+      "vi": [
+        "1. Giao diện mới tinh gọn hơn",
+        "2. Truyền phát điện thoại đám mây mượt mà hơn",
+        "3. Sửa lỗi và cải thiện độ ổn định"
+      ]
     }
   }
 }
