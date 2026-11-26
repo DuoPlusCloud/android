@@ -1,0 +1,41 @@
+{
+  "ios": {
+    "latest_version": "1.0.35",
+    "min_supported_version": "1.0.30",
+    "url": "https://apps.apple.com/app/id6761875502",
+    "notes": {
+      "en": "UI redesign, smoother streaming and bug fixes.",
+      "zh-CN": "全新界面升级，优化推流体验并修复已知问题。",
+      "zh-TW": "全新介面升級，優化推流體驗並修復已知問題。",
+      "ru": "Обновлённый интерфейс и исправление ошибок.",
+      "pt": "Novo visual, streaming mais fluido e correções.",
+      "vi": "Giao diện mới, truyền phát mượt hơn và sửa lỗi."
+    }
+  },
+  "android_play": {
+    "latest_version": "1.0.35",
+    "min_supported_version": "1.0.30",
+    "url": "https://play.google.com/store/apps/details?id=com.duoplus.app",
+    "notes": {
+      "en": "UI redesign, smoother streaming and bug fixes.",
+      "zh-CN": "全新界面升级，优化推流体验并修复已知问题。",
+      "zh-TW": "全新介面升級，優化推流體驗並修復已知問題。",
+      "ru": "Обновлённый интерфейс и исправление ошибок.",
+      "pt": "Novo visual, streaming mais fluido e correções.",
+      "vi": "Giao diện mới, truyền phát mượt hơn và sửa lỗi."
+    }
+  },
+  "android_apk": {
+    "latest_version": "1.0.35",
+    "min_supported_version": "1.0.30",
+    "url": "https://github.com/DuoPlusCloud/android/releases/latest",
+    "notes": {
+      "en": "UI redesign, smoother streaming and bug fixes.",
+      "zh-CN": "全新界面升级，优化推流体验并修复已知问题。",
+      "zh-TW": "全新介面升級，優化推流體驗並修復已知問題。",
+      "ru": "Обновлённый интерфейс и исправление ошибок.",
+      "pt": "Novo visual, streaming mais fluido e correções.",
+      "vi": "Giao diện mới, truyền phát mượt hơn và sửa lỗi."
+    }
+  }
+}
