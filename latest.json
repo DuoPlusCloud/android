@@ -1,115 +1,97 @@
 {
   "ios": {
-    "latest_version": "1.0.34",
-    "prompt_below_version": "1.0.34",
+    "latest_version": "1.0.35",
+    "prompt_below_version": "1.0.35",
     "force_below_version": "1.0.30",
     "url": "https://apps.apple.com/app/id6761875502",
     "notes": {
       "en": [
-        "1. UI redesign with native Liquid Glass support",
-        "2. Smoother cloud phone streaming",
-        "3. Bug fixes and stability improvements"
+        "1. Refreshed interface with refined visual polish and smoother interactions.",
+        "2. Added iPad split-screen support and fixed known issues for better stability."
       ],
       "zh-CN": [
-        "1. 全新界面升级，适配 iOS 液态玻璃效果",
-        "2. 优化云手机推流与操控体验",
-        "3. 修复已知问题并提升稳定性"
+        "1. 全新界面升级，优化整体视觉与交互体验，操作更流畅顺手。",
+        "2. 新增 iPad 大屏适配，并修复部分已知问题，提升整体稳定性。"
       ],
       "zh-TW": [
-        "1. 全新介面升級，適配 iOS 液態玻璃效果",
-        "2. 優化雲手機推流與操控體驗",
-        "3. 修復已知問題並提升穩定性"
+        "1. 全新介面升級，最佳化整體視覺與互動體驗，操作更流暢順手。",
+        "2. 新增 iPad 大螢幕適配，並修復部分已知問題，提升整體穩定性。"
       ],
       "ru": [
-        "1. Обновлённый интерфейс с поддержкой Liquid Glass",
-        "2. Более плавный стриминг облачного телефона",
-        "3. Исправление ошибок и повышение стабильности"
+        "1. Обновлённый интерфейс с улучшенной визуальной проработкой и более плавным взаимодействием.",
+        "2. Добавлена поддержка разделённого экрана на iPad и исправлены известные ошибки для повышения стабильности."
       ],
       "pt": [
-        "1. Novo visual com suporte a Liquid Glass",
-        "2. Streaming de telefone na nuvem mais fluido",
-        "3. Correções de bugs e melhorias de estabilidade"
+        "1. Interface renovada com visual mais refinado e interações mais fluidas.",
+        "2. Suporte a tela dividida no iPad e correção de problemas conhecidos para maior estabilidade."
       ],
       "vi": [
-        "1. Giao diện mới hỗ trợ Liquid Glass",
-        "2. Truyền phát điện thoại đám mây mượt mà hơn",
-        "3. Sửa lỗi và cải thiện độ ổn định"
+        "1. Nâng cấp giao diện tinh tế hơn cùng trải nghiệm tương tác mượt mà và tự nhiên hơn.",
+        "2. Bổ sung hỗ trợ chia đôi màn hình cho iPad và sửa các lỗi đã biết để tăng độ ổn định."
       ]
     }
   },
   "android_play": {
-    "latest_version": "1.0.34",
-    "prompt_below_version": "1.0.34",
+    "latest_version": "1.0.35",
+    "prompt_below_version": "1.0.35",
     "force_below_version": "1.0.30",
     "url": "https://play.google.com/store/apps/details?id=com.duoplus.app",
     "notes": {
       "en": [
-        "1. UI redesign and visual polish",
-        "2. Smoother cloud phone streaming",
-        "3. Bug fixes and stability improvements"
+        "1. Refreshed interface with refined visual polish and smoother interactions.",
+        "2. Added tablet split-screen support and fixed known issues for better stability."
       ],
       "zh-CN": [
-        "1. 全新界面升级与细节优化",
-        "2. 优化云手机推流与操控体验",
-        "3. 修复已知问题并提升稳定性"
+        "1. 全新界面升级，优化整体视觉与交互体验，操作更流畅顺手。",
+        "2. 新增平板大屏适配，并修复部分已知问题，提升整体稳定性。"
       ],
       "zh-TW": [
-        "1. 全新介面升級與細節優化",
-        "2. 優化雲手機推流與操控體驗",
-        "3. 修復已知問題並提升穩定性"
+        "1. 全新介面升級，最佳化整體視覺與互動體驗，操作更流暢順手。",
+        "2. 新增平板大螢幕適配，並修復部分已知問題，提升整體穩定性。"
       ],
       "ru": [
-        "1. Обновлённый интерфейс",
-        "2. Более плавный стриминг облачного телефона",
-        "3. Исправление ошибок и повышение стабильности"
+        "1. Обновлённый интерфейс с улучшенной визуальной проработкой и более плавным взаимодействием.",
+        "2. Добавлена поддержка разделённого экрана на планшетах и исправлены известные ошибки для повышения стабильности."
       ],
       "pt": [
-        "1. Novo visual e refinamento de interface",
-        "2. Streaming de telefone na nuvem mais fluido",
-        "3. Correções de bugs e melhorias de estabilidade"
+        "1. Interface renovada com visual mais refinado e interações mais fluidas.",
+        "2. Suporte a tela dividida em tablets e correção de problemas conhecidos para maior estabilidade."
       ],
       "vi": [
-        "1. Giao diện mới tinh gọn hơn",
-        "2. Truyền phát điện thoại đám mây mượt mà hơn",
-        "3. Sửa lỗi và cải thiện độ ổn định"
+        "1. Nâng cấp giao diện tinh tế hơn cùng trải nghiệm tương tác mượt mà và tự nhiên hơn.",
+        "2. Bổ sung hỗ trợ chia đôi màn hình cho máy tính bảng và sửa các lỗi đã biết để tăng độ ổn định."
       ]
     }
   },
   "android_apk": {
-    "latest_version": "1.0.34",
-    "prompt_below_version": "1.0.34",
+    "latest_version": "1.0.35",
+    "prompt_below_version": "1.0.35",
     "force_below_version": "1.0.30",
     "url": "https://github.com/DuoPlusCloud/android/releases/latest",
     "notes": {
       "en": [
-        "1. UI redesign and visual polish",
-        "2. Smoother cloud phone streaming",
-        "3. Bug fixes and stability improvements"
+        "1. Refreshed interface with refined visual polish and smoother interactions.",
+        "2. Added tablet split-screen support and fixed known issues for better stability."
       ],
       "zh-CN": [
-        "1. 全新界面升级与细节优化",
-        "2. 优化云手机推流与操控体验",
-        "3. 修复已知问题并提升稳定性"
+        "1. 全新界面升级，优化整体视觉与交互体验，操作更流畅顺手。",
+        "2. 新增平板大屏适配，并修复部分已知问题，提升整体稳定性。"
       ],
       "zh-TW": [
-        "1. 全新介面升級與細節優化",
-        "2. 優化雲手機推流與操控體驗",
-        "3. 修復已知問題並提升穩定性"
+        "1. 全新介面升級，最佳化整體視覺與互動體驗，操作更流暢順手。",
+        "2. 新增平板大螢幕適配，並修復部分已知問題，提升整體穩定性。"
       ],
       "ru": [
-        "1. Обновлённый интерфейс",
-        "2. Более плавный стриминг облачного телефона",
-        "3. Исправление ошибок и повышение стабильности"
+        "1. Обновлённый интерфейс с улучшенной визуальной проработкой и более плавным взаимодействием.",
+        "2. Добавлена поддержка разделённого экрана на планшетах и исправлены известные ошибки для повышения стабильности."
       ],
       "pt": [
-        "1. Novo visual e refinamento de interface",
-        "2. Streaming de telefone na nuvem mais fluido",
-        "3. Correções de bugs e melhorias de estabilidade"
+        "1. Interface renovada com visual mais refinado e interações mais fluidas.",
+        "2. Suporte a tela dividida em tablets e correção de problemas conhecidos para maior estabilidade."
       ],
       "vi": [
-        "1. Giao diện mới tinh gọn hơn",
-        "2. Truyền phát điện thoại đám mây mượt mà hơn",
-        "3. Sửa lỗi và cải thiện độ ổn định"
+        "1. Nâng cấp giao diện tinh tế hơn cùng trải nghiệm tương tác mượt mà và tự nhiên hơn.",
+        "2. Bổ sung hỗ trợ chia đôi màn hình cho máy tính bảng và sửa các lỗi đã biết để tăng độ ổn định."
       ]
     }
   }
